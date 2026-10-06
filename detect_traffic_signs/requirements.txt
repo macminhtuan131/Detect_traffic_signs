@@ -1,0 +1,9 @@
+efficientnet-pytorch
+matplotlib
+numpy
+opencv-python
+pycocotools
+tensorboardX
+torch
+torchvision
+tqdm

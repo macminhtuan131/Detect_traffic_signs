@@ -1,0 +1,14 @@
+{
+  "annotations": [
+    {
+      "id": 32,
+      "image_id": 24,
+      "category_id": 10,
+      "bbox": [138, 0, 57, 62],
+      "area": 3534,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "verified_empty_image_ids": []
+}
